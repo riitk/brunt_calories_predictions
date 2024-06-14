@@ -38,8 +38,8 @@ Evaluated models using:
 - **Accuracy Score**
 
 ### Results
-- **Linear Regression**: R² Score = 0.983
-- **XGBRFRegressor**: R² Score = 0.992
+- **Linear Regression**: R² Score = 0.966
+- **XGBRFRegressor**: R² Score = 0.984
 
 ## How to Run
 1. Clone the repository:
